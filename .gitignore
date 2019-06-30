@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -30,3 +31,8 @@
 *.exe
 *.out
 *.app
+noise
+
+# VS Code
+/.vscode/
+
